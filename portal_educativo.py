@@ -79,7 +79,7 @@ def mostrar_conteudo():
         print("\n--- Portal Educativo ---\n")
         print("1 - Lógica de Programação")
         print("2 - Python Básico")
-        print("3 - Segurança da Informação")
+        print("3 - Cibersegurança")
         print("4 - Práticas e Avaliações")
         print("5 - Encerrar\n")
         
